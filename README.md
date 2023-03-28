@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I absolutely LOVE cooking and working on cars as well! BUT gaming is also one of my favorite things to do!
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cannonbreedpixels.tumblr.com/post/116293575543/concept-of-a-bloodborne-demake-about-eileen-d/amp">
- <source media="(prefers-color-scheme: light)" srcset="https://cannonbreedpixels.tumblr.com/post/116293575543/concept-of-a-bloodborne-demake-about-eileen-d/amp">
- <img alt="eileen the crow running" src="https://cannonbreedpixels.tumblr.com/post/116293575543/concept-of-a-bloodborne-demake-about-eileen-d/amp">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/eileenthecrow.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/eileenthecrow.gif">
+ <img alt="eileen the crow running" src="https://github.com/Idjjurado/idjjurado/blob/main/eileenthecrow.gif">
 </picture>
