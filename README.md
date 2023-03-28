@@ -1,4 +1,6 @@
-## ¡HOLA! I'm Ismael, or NANO as most know me! 👋 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <img alt="eileen the crow running" src="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> </picture>
+## 🎃¡HOLA! I'm Ismael, or NANO as most know me!🪂
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <img alt="eileen the crow running" src="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> </picture>
 
 - 💾 I’m currently working on gaining more coding knowledge and completing my full-stack bootcamp!
 - 📖 I’m currently learning HTML, CSS, JavaScript, React, Node, MySQL, C#
