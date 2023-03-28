@@ -6,7 +6,7 @@
 - 💬 Ask me about anything! Definitely not opposed to chatting or answering any questions!
 
 ### Contact me!
-- Dev.to: https://dev.to/idjjurado
+- 🐲 Dev.to: https://dev.to/idjjurado
 - 😻 GH: https://github.com/Idjjurado
 - 📸 IG: @elcocinerochiple
 - 🤖 Discord: OneEyedGhoulKing#8175
