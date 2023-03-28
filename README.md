@@ -1,4 +1,4 @@
-## 🎃¡HOLA! I'm Ismael, or NANO as most know me!🪂
+## 🎮🎃¡HOLA! I'm Ismael, or NANO as most know me!🪂🏴🚩
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> <img alt="eileen the crow running" src="https://github.com/Idjjurado/idjjurado/blob/main/inosuke.gif"> </picture>
 
@@ -9,7 +9,7 @@
 
 ### Contact me!
 - 🐲 Dev.to: https://dev.to/idjjurado
-- 😻 GH: https://github.com/Idjjurado
+- ![image](https://user-images.githubusercontent.com/41381193/228383844-95f0ce71-1964-44e1-ab35-ab3c0df3a291.png) GH: https://github.com/Idjjurado
 - 📸 IG: @elcocinerochiple
 - 🤖 Discord: OneEyedGhoulKing#8175
 - 🥰 Pronouns: He/Him/His/They/Them/Theirs
