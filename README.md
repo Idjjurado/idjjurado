@@ -21,6 +21,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=idjjurado" alt="Ismael Jimenez-Jurado" />
     </a>
   </p>
+</div>
 
   <ul>
     <li>📖 I’m currently learning HTML, CSS, JavaScript, React, Node, MySQL, C#</li>
@@ -37,7 +38,7 @@
     <li>🥰 Pronouns: He/Him/His/They/Them/Theirs</li>
     <li>⚡ Fun fact: I absolutely LOVE cooking and working on cars as well! BUT gaming is also one of my favorite things to do! I also LOVE anime!</li>
   </ul>
-
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/juuzou.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Idjjurado/idjjurado/blob/main/juuzou.gif">
