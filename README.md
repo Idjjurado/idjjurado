@@ -16,11 +16,11 @@
     </p>
   </div>
 
-<!--  <p align="center">
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=idjjurado&theme=matrix&no-frame=true" alt="Ismael Jimenez-Jurado" />
     </a>
-  </p> -->
+  </p>
 </div>
 
   <ul>
