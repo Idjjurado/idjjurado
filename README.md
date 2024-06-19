@@ -24,7 +24,8 @@
 </div>
 
   <ul>
-    <li>📖 I’m currently learning HTML, CSS, JavaScript, React, Node, MySQL, C#</li>
+    <li>🧸 As a Software QA Engineer at Eduphoria! Inc., I ensure the quality and reliability of the Eduphoria platform and tools, which provide innovative solutions for educators and students. I have over seven years of experience in quality assurance, software engineering, and technical support in the e-learning industry.</li>
+    <li>📖 I’m a certified NOVICE full-stack Dev through the full-stack bootcamp at University of Arizona</li>
     <li>🤹 I’m looking to collaborate on anything that my skillset would be useful for! Looking to collaborate on more projects that involve and benefit DEI efforts!</li>
     <li>💬 Ask me about anything! Definitely not opposed to chatting or answering any questions!</li>
   </ul>
@@ -35,7 +36,6 @@
     <li>:octocat: GH: https://github.com/Idjjurado</li>
     <li>📸 IG: @elcocinerochiple</li>
     <li>🤖 Discord: OneEyedGhoulKing#8175</li>
-    <li>🥰 Pronouns: He/Him/His/They/Them/Theirs</li>
     <li>⚡ Fun fact: I absolutely LOVE cooking and working on cars as well! BUT gaming is also one of my favorite things to do! I also LOVE anime!</li>
   </ul>
 <div align="center">
